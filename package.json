@@ -42,7 +42,7 @@
     "eslint": "^9.9.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.11",
-    "ethers": "^6.15.0",
+    "ethers": "^5.8.0",
     "globals": "^15.9.0",
     "hardhat": "^2.26.1",
     "hardhat-gas-reporter": "^2.3.0",
